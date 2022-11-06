@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Changjie Lu 
 - 👀 I’m interested in Medical Image Analysis, Computer Vision, Causal Representation Learning, Reinforcement Learning.
-- 🌱 I’m currently learning Causal Representation Learning in Medical Image Analysis.
+- 🌱 I’m currently studying Causal Representation Learning for Medical Image Analysis.
 - 💞️ I’m looking for a PhD position in 2023 Fall.
 - 📫 lucha@kean.edu
 
